@@ -1,0 +1,11 @@
+{
+  "nameLatin": "Solanum lycopersicum",
+  "nameEn": "Tomato",
+  "namePl": "Pomidor",
+  "optimalConditions": 
+  {
+      "airTemperature": {"min": 20, "max": 25},
+      "soilTemperature": {"min": 21, "max": 26},
+      "airHumidity": {"min": 60, "max": 80}
+  }
+}

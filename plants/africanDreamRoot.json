@@ -1,0 +1,11 @@
+{
+  "nameLatin": "Silene capensis",
+  "nameEn": "African Dream Root",
+  "namePl": "Afrykański korzeń snów",
+  "optimalConditions": 
+  {
+      "airTemperature": {"min": 18, "max": 24},
+      "soilTemperature": {"min": 20, "max": 25},
+      "airHumidity": {"min": 60, "max": 80}
+  }
+}
